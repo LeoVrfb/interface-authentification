@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/interface-authentification/static/css/main.68f48dee.chunk.css",
+    "main.js": "/interface-authentification/static/js/main.8d155bf3.chunk.js",
+    "main.js.map": "/interface-authentification/static/js/main.8d155bf3.chunk.js.map",
+    "runtime-main.js": "/interface-authentification/static/js/runtime-main.9fb57106.js",
+    "runtime-main.js.map": "/interface-authentification/static/js/runtime-main.9fb57106.js.map",
+    "static/js/2.c41f1f4c.chunk.js": "/interface-authentification/static/js/2.c41f1f4c.chunk.js",
+    "static/js/2.c41f1f4c.chunk.js.map": "/interface-authentification/static/js/2.c41f1f4c.chunk.js.map",
+    "index.html": "/interface-authentification/index.html",
+    "static/css/main.68f48dee.chunk.css.map": "/interface-authentification/static/css/main.68f48dee.chunk.css.map",
+    "static/js/2.c41f1f4c.chunk.js.LICENSE.txt": "/interface-authentification/static/js/2.c41f1f4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb57106.js",
+    "static/js/2.c41f1f4c.chunk.js",
+    "static/css/main.68f48dee.chunk.css",
+    "static/js/main.8d155bf3.chunk.js"
+  ]
+}
