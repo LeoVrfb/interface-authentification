@@ -56,7 +56,7 @@ export default function SignUp() {
       <div className="container-modal">
         <form className="form-auth"
               onSubmit={handleSubmit}>
-          <h2>INSCRIPTION</h2>
+          <h2>INSCRIPTION </h2>
           <label htmlFor="mail">Votre mail</label>
           <input type="email" ref={addInputs} htmlFor="mail" />
 
@@ -72,7 +72,7 @@ export default function SignUp() {
         </form>
         <button className="btn-close" onClick={closeModal}>X</button>
         <p className="bottom-help-txt"
-           onClick={toggleSignIn}>Besoin de se connecter ?
+           onClick={toggleSignIn}>Besoin de vous connecter ?
            </p>
       </div>
     </div>
